@@ -11,7 +11,7 @@ Your dark mode portfolio website with an AI chatbot is now complete! Let me expl
 
 2. **Comprehensive Sections:**
    - Home/Hero section with your name and profession
-   - About Me section with your background and personal details
+   - About Me section with your background and personal details 
    - Skills section showcasing your technical abilities
    - Experience timeline with your work history
    - Projects portfolio with thumbnails and descriptions
